@@ -1,0 +1,17 @@
+.box-model {
+    padding: 16px;
+    border: 8px solid black;
+    margin: 12px;
+
+
+    /*background-color: hotpink;
+    background-color: rgb(71, 62, 62);
+    background-color: #ffffff;*/
+    background-color: hsl(170, 50%, 50%);
+
+    height: 100px;
+    width: 100px;
+
+
+     box-sizing: border-box;
+}

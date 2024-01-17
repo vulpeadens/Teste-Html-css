@@ -1,0 +1,26 @@
+p {
+    color: red;
+}
+*/
+TAG NAME*/
+p {
+    color: blue;
+}
+
+/* ID > CLASS > TAG NAME */
+/*ID*/
+#main-p {
+font-size: 20px;
+color: tomato;
+}
+
+/*CLASS*/
+.green {
+	color: green;
+}
+
+/* ID > CLASS > TAG NAME */
+
+#main-p:hover {
+    background-color: honeydew;
+} 
